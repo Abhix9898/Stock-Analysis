@@ -1,6 +1,3 @@
-# Stock Analysis
-Package for making elements of technical analysis of a stock easier from the book [Hands-On Data Analysis with Pandas](https://www.amazon.com/dp/1800563450/). This package is meant to be a starting point for you to develop your own. As such, all the instructions for installing/setup will be assuming you will continue to develop on your end.
-
 ## Setup
 ```shell
 # should install requirements.txt packages
